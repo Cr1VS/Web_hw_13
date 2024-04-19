@@ -1,1 +1,1 @@
-# web-hw-10
+# django
